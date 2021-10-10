@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar jsCode %3D document.createElement("script")%3B%0A        jsCode.setAttribute("src"%2C "https%3A%2F%2Feeki2.csb.app%2Fcode.js")%3B%0A        document.body.appendChild(jsCode)%3B%7D)()%3B
